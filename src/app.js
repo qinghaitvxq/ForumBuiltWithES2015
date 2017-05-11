@@ -7,4 +7,3 @@ Post.findAll()
     .catch((error)=>{
        console.log(error)
      });
- 
