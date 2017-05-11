@@ -1,0 +1,31 @@
+{
+  "name": "demo_es2015",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/qinghaitvxq/ForumBuiltWithES2015.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/qinghaitvxq/ForumBuiltWithES2015/issues"
+  },
+  "homepage": "https://github.com/qinghaitvxq/ForumBuiltWithES2015#readme",
+  "devDependencies": {
+    "babel-preset-es2015": "^6.1.18",
+    "babelify": "^7.2.0",
+    "browserify": "^12.0.1",
+    "gulp": "^3.9.0",
+    "vinyl-source-stream": "^1.1.0",
+    "xss-filters": "^1.2.6"
+  },
+  "dependencies": {
+    "babel-core": "^6.1.21",
+    "json-server": "^0.10.0"
+  }
+}
